@@ -1,0 +1,14 @@
+#
+MAT101/Math/Description:/4.0/[Hello World : Vol. 1]
+#
+MAT102/Harder Math/Description:/4.0/[Hello World : Vol. 2]
+#
+MAT103/Even Harder Math/Description:/4.0/[Hello World : Vol. 3]
+#
+MAT104/Math: Extreme I/Description:/4.0/[Hello World : Vol. 4]
+#
+MAT105/Math: Extreme II/Description:/4.0/[Hello World : Vol. 5]
+#
+MAT106/Math: Extreme III/Description:/4.0/[Hello World : Vol. 6]
+#
+MAT107/Math: Extreme IIII/Description:/4.0/[Hello World : Vol. 7]
