@@ -1,0 +1,4 @@
+Current issues:
+- fix back button bug that drags everything off screen (seems to be due
+  to the insets)
+- figure out how to use HBoxes, may fix above bug
